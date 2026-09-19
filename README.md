@@ -31,7 +31,7 @@ A handmade paper greeting card decorated with red borders, hearts, stars, and a 
 
 ##### **RESULT**
 
-![][result(1).jpeg]  
+![result](result(1).jpeg)  
  **Notes**
 
 * Keep the measurements and folds accurate.  
